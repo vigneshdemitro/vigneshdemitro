@@ -101,6 +101,5 @@ Toastmasters has strengthened my **communication, leadership presence, and meeti
 
 * 🔗 Portfolio: [https://vigneshwar-portfolio.netlify.app](https://vigneshwar-portfolio.netlify.app)
 * 💼 LinkedIn: [https://www.linkedin.com/in/vigneshwarpasupathi](https://www.linkedin.com/in/vigneshwarpasupathi)
-* 🧑‍💻 GitHub: [https://github.com/vigneshdemitro](https://github.com/vigneshdemitro)
 
 I’m passionate about building **scalable products**, improving **engineering quality**, and growing as a **Senior Individual Contributor** in product-driven teams. Feel free to explore my repositories or reach out — happy to connect!
