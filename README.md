@@ -99,7 +99,7 @@ Toastmasters has strengthened my **communication, leadership presence, and meeti
 
 ## 🌐 Let’s Connect
 
-* 🔗 Portfolio:[https://portfolio.vigneshdemitro.work/home](https://portfolio.vigneshdemitro.work/home)
+* 🔗 Portfolio: [https://portfolio.vigneshdemitro.work/home](https://portfolio.vigneshdemitro.work/home)
 * 💼 LinkedIn: [https://www.linkedin.com/in/vigneshwarpasupathi](https://www.linkedin.com/in/vigneshwarpasupathi)
 
 I’m passionate about building **scalable products**, improving **engineering quality**, and growing as a **Senior Individual Contributor** in product-driven teams. Feel free to explore my repositories or reach out — happy to connect!
