@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vigneshwar Pasupathi
 
-Senior **Full Stack Engineer** with **5+ years of hands-on experience in software development** and **10+ years of overall professional experience**. I currently work as a **Guidewire Analytics Developer at Guidewire Software**, building **scalable, data-driven enterprise web applications**.
+Senior **Full Stack Engineer** with **6+ years of hands-on experience in software development** and **10+ years of overall professional experience**. I currently work as a **Full Stack Engineer II at Guidewire Software**, building **scalable, data-driven enterprise web applications**.
 
 My background includes a unique transition from **Civil Engineering (4+ years)** into software development, which gives me a strong foundation in **structured problem-solving, system thinking, and design discipline**—skills I apply daily while building reliable and maintainable software systems.
 
@@ -34,7 +34,7 @@ This cross-domain journey enables me to bridge **design thinking with software a
 React · Angular · Guidewire Jutro · TypeScript · JavaScript
 
 **Backend & APIs**
-Node.js · NestJS · RESTful APIs
+Node.js · NestJS · Python · FastAPI · RESTful APIs
 
 **Cloud & DevOps**
 AWS Lambda · CI/CD Pipelines · TeamCity
@@ -49,7 +49,7 @@ Git · Jira · Postman · Bruno · Agile/Scrum · Individual Contributor Mindset
 
 ## 🏢 Professional Experience (Highlights)
 
-### **Guidewire Software** — Full Stack Engineer
+### **Guidewire Software** — Full Stack Engineer II
 
 *Jun 2024 – Present | Chennai, India*
 
@@ -58,6 +58,8 @@ Git · Jira · Postman · Bruno · Agile/Scrum · Individual Contributor Mindset
 * Implemented **AWS Lambda–based serverless solutions** to improve scalability and efficiency
 * Built and maintained **CI/CD pipelines** enabling automated builds and deployments
 * Performed debugging, testing, and peer code reviews to improve production stability
+* Promoted to **Full Stack Engineer II**, expanding into **AI-assisted engineering** — building AI agents using Claude to analyse CI/CD failures and intelligently route support tickets, reducing triage time
+* Championing **spec-driven development** and AI-augmented workflows to accelerate delivery across the team
 
 ### **ACubetech Solutions Pvt. Ltd.** — Senior Software Engineer
 
@@ -99,7 +101,8 @@ Toastmasters has strengthened my **communication, leadership presence, and meeti
 
 ## 🌐 Let’s Connect
 
-* 🔗 Portfolio: [https://portfolio.vigneshdemitro.work/home](https://portfolio.vigneshdemitro.work/home)
+* 🔗 Portfolio: [https://vigneshdemitro.work](https://vigneshdemitro.work)
+* 🕒 Career Timeline: [https://timeline.vigneshdemitro.work](https://timeline.vigneshdemitro.work)
 * 💼 LinkedIn: [https://www.linkedin.com/in/vigneshwarpasupathi](https://www.linkedin.com/in/vigneshwarpasupathi)
 
 I’m passionate about building **scalable products**, improving **engineering quality**, and growing as a **Senior Individual Contributor** in product-driven teams. Feel free to explore my repositories or reach out — happy to connect!
